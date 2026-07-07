@@ -134,6 +134,10 @@ get_header();
             <a href="<?php echo esc_url(home_url('/contact')); ?>" class="btn btn-light">
                 <?php esc_html_e('Request Free Review', '123-web-hosting'); ?>
             </a>
+
+            <a href="<?php echo esc_url(home_url('/contact')); ?>" class="btn btn-light">
+                <?php esc_html_e('Request Website Audit', '123-web-hosting'); ?>
+            </a>
         </div>
     </section>
 
