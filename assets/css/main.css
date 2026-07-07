@@ -320,6 +320,7 @@ a {
 .site-footer p,
 .site-footer li {
     color: #cbd5e1;
+    padding: 40px;
 }
 
 /* Footer list reset. */
